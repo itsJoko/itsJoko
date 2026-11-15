@@ -1,59 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-labelledby="t d">
   <title id="t">Joko Comia, UI/UX Designer and Front-end Developer</title>
-  <desc id="d">A blueprint-style banner. A wireframe card draws itself, its button is selected and filled in, and the matching code appears underneath.</desc>
+  <desc id="d">Joko Comia, UI/UX designer and front-end developer, open to OJT in San Pablo City, Laguna. A wireframe card draws itself, a cursor selects its button, and the matching code appears.</desc>
   <style>
-    .sans { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; }
+    @font-face { font-family: "Funnel Display"; font-weight: 800; font-style: normal; src: url(data:font/woff2;base64,d09GMgABAAAAAAR0ABAAAAAACOgAAAQXAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgXAccgZgP1NUQVQqAGwRCAqEVIQCATYCJAMwCxoABCAFhBYHIAwHG2QHCC4HbHCnB4xHVdaOsrmiuZlT2GVxDx/ixcPTWuX71TXUfYygTgOFLINDBQA67A6WVdDFktr5y798R1QBd1KdAmgD4Tvam38BUcFFZRYVizJ6sjezCUUQ1UpB6loRK55f3uvKPlMgPrWRbw3wrw7bDU4Gh4F/WmjaYG5b//5/Yy88z/1MF4mRvm9bAw5oOI4Ci2gdfV1E4WyCm83WV/m8Q5sP9MjP3Bp6dhB9nGOYWYwhPaJ/tQIDAEkSslDXEgKlGcJId+D8cjBeaunuAqMM7ReIi4zYBWoEQpY0habkBjke9LKGBpSibB9aGxUMxjVg1BoXYucaCoFQl6W+vbCLybKatLbwAbVojw2gtrU2EwnYXlqucPtTa/EnUsuxpXkV7yN6iVAdhEDjrotynCyn94spFBQD0k2c0yPFG84VD3RcJnZsehG8Ygoyp/0/kD+JfQAC0hmZDZhCJpxxjJjPBNL7OL5bAgBE1Kmziykwgmzy78idAYYxk0mmSJerhaBdJ/LRm9rLIk8zqZoIuJsQbQaDAWAMUOI9/A4mACMACCG1zeosDU5+UmtClQdOHyIDLiz+dcVEd3e11Nl5sjzpKhc73N9ZLXVPT0dHRyWpalW+v6M8rymuStdEyyeXaK9NoFJG+UnHKeZ8F5LySfd/ux2ualSpOq0rZ7S1xaAryqhU3+2ehVGgVBYPQHcM3JSCRNzfca8/JuKELj75ZVHvVEu3Jt78efDIHcs8jo0zD3ofI+w+pqb05z9fjfRsvn+mr0+6+Oz81vc+B9RS0/sYPN74avZxJycfZ4G8vNTPVtaMNvceu5Xy9YlfjWC2uOGFtf7uj1Nf3NK2v3rN8l2Q5nscFS8djJ14Np+5rYaEPbdX8t7v+/577vv7km51uXJqrx14xMQezGFD+vOuppm+xYVu5jZ1tLd3NLU92f6417akAhVqK794uampeGkrj6bX84qWmpuKljfyqMPM7FKMs4szcU4xRmop2J+cuz23/JI0iwINVTvmmiWsAfplR/XDSRC8PiLa0pTwT7PIn8Dv1fUH/KHX3/839HceBFCXQPD5XbVJQ9jtPqcqzW/KvtTZ4IhfjbHAKbFKjLQka670ow35LSMec0KMAfgFgQH2UNhOLgBAIdByg0zkFl4lA2GDPSAZpAcoHPLfmUeBmnGxgl63Jg4xBAPi0XcXdcPiRdsRTgNEAg6vGxImRJhwSDkeA8F6dOnC6IAUExFtGJRuSKoe3XiEyAWx4HXr5uQSJ1gwjsBpPVoFoRCdXWiGBuO7DXBiBPv1srprpn7u4tShxQAkP/j0TP26iVqkIYmfVorB6QmLQmENEa54aXiOdEXifapZSUGB0ErNwmUCoguS2/MwpMowVo9emUpcm50T+020N/kzAAAA) format("woff2"); }
+    @font-face { font-family: "Funnel Sans"; font-weight: 600; font-style: normal; src: url(data:font/woff2;base64,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) format("woff2"); }
+    .disp { font-family: "Funnel Display", "Segoe UI Variable Display", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; font-weight: 800; }
+    .sans { font-family: "Funnel Sans", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; font-weight: 600; }
     .mono { font-family: ui-monospace, "Cascadia Code", Consolas, Menlo, monospace; }
-    .draw { stroke-dasharray: 996; stroke-dashoffset: 0; animation: draw 1s ease-out both; }
-    .fade { animation: fade .5s ease-out both; }
-    .a1 { animation-delay: .6s; }
-    .a2 { animation-delay: 1.3s; }
-    .a3 { animation-delay: 1.7s; }
-    .a4 { animation-delay: 2.1s; }
-    @keyframes draw { from { stroke-dashoffset: 996; } to { stroke-dashoffset: 0; } }
+    .rule { stroke-dasharray: 888; stroke-dashoffset: 0; animation: draw .9s ease-out both; }
+    .outline { stroke-dasharray: 836; stroke-dashoffset: 0; animation: draw 1s ease-out .5s both; }
+    .up { animation: up .9s cubic-bezier(.16,.84,.3,1) both; }
+    .n { --y: 130px; animation-delay: .1s; }
+    .r1 { --y: 44px; animation-delay: .35s; animation-duration: .7s; }
+    .r2 { --y: 44px; animation-delay: .45s; animation-duration: .7s; }
+    .fade { animation: fade .45s ease-out both; }
+    .inner { animation-delay: 1.2s; }
+    .pick { animation-delay: 2.3s; }
+    .fill { animation-delay: 2.6s; }
+    .code { animation-delay: 2.9s; }
+    .cursor { animation: move .9s cubic-bezier(.45,0,.2,1) 1.4s both; }
+    @keyframes draw { from { stroke-dashoffset: 888; } to { stroke-dashoffset: 0; } }
+    @keyframes up { from { transform: translateY(var(--y)); } to { transform: translateY(0); } }
     @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes move { 0% { opacity: 0; transform: translate(-130px,-110px); } 15% { opacity: 1; } 100% { opacity: 1; transform: translate(0,0); } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
   <defs>
-    <pattern id="minor" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M20 0H0V20" fill="none" stroke="#F2F5FF" stroke-opacity=".07"/>
-    </pattern>
-    <pattern id="major" width="100" height="100" patternUnits="userSpaceOnUse">
-      <path d="M100 0H0V100" fill="none" stroke="#F2F5FF" stroke-opacity=".14"/>
-    </pattern>
+    <clipPath id="cn"><rect x="40" y="100" width="640" height="122"/></clipPath>
+    <clipPath id="c1"><rect x="40" y="224" width="560" height="38"/></clipPath>
+    <clipPath id="c2"><rect x="40" y="264" width="560" height="40"/></clipPath>
   </defs>
 
-  <rect width="1000" height="300" rx="16" fill="#16247A"/>
-  <rect width="1000" height="300" rx="16" fill="url(#minor)"/>
-  <rect width="1000" height="300" rx="16" fill="url(#major)"/>
+  <rect width="1000" height="360" rx="20" fill="#5C4F62"/>
 
-  <text class="sans" x="56" y="132" font-size="76" font-weight="800" letter-spacing="-2" fill="#F2F5FF">Joko Comia</text>
-  <text class="sans" x="58" y="190" font-size="34" font-weight="600" fill="#F2F5FF">UI/UX Designer &amp;</text>
-  <text class="sans" x="58" y="232" font-size="34" font-weight="600" fill="#F2F5FF">Front-end Developer</text>
+  <circle cx="60" cy="62" r="5" fill="#FCAC87"/>
+  <text class="sans" x="76" y="68" font-size="16" fill="#F4ECE9" fill-opacity=".9">Open to OJT</text>
+  <text class="sans" x="944" y="68" font-size="16" text-anchor="end" fill="#F4ECE9" fill-opacity=".7">San Pablo City, Laguna</text>
+  <path class="rule" d="M56 88H944" stroke="#F4ECE9" stroke-opacity=".22" stroke-width="1"/>
 
-  <rect class="draw" x="650" y="40" width="290" height="220" rx="14" fill="none" stroke="#F2F5FF" stroke-width="2"/>
+  <g clip-path="url(#cn)"><text class="disp up n" x="52" y="204" font-size="112" letter-spacing="-4" fill="#F4ECE9">Joko Comia</text></g>
+  <g clip-path="url(#c1)"><text class="sans up r1" x="56" y="254" font-size="32" fill="#F4ECE9">UI/UX Designer &amp;</text></g>
+  <g clip-path="url(#c2)"><text class="sans up r2" x="56" y="294" font-size="32" fill="#F4ECE9">Front-end Developer</text></g>
 
-  <g class="fade a1">
-    <rect x="670" y="60" width="250" height="84" rx="8" fill="none" stroke="#F2F5FF" stroke-opacity=".55" stroke-width="1.5"/>
-    <path d="M670 60L920 144M920 60L670 144" stroke="#F2F5FF" stroke-opacity=".25" stroke-width="1.5"/>
-    <rect x="670" y="164" width="180" height="10" rx="5" fill="#F2F5FF" fill-opacity=".7"/>
-    <rect x="670" y="184" width="120" height="10" rx="5" fill="#F2F5FF" fill-opacity=".4"/>
+  <g transform="translate(0 6)">
+  <rect x="670" y="96" width="292" height="220" rx="22" fill="#836D86" fill-opacity=".45"/>
+  <rect class="outline" x="688" y="108" width="256" height="174" rx="14" fill="none" stroke="#F4ECE9" stroke-width="2"/>
+
+  <g class="fade inner">
+    <rect x="704" y="124" width="224" height="64" rx="8" fill="none" stroke="#F4ECE9" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="M704 124L928 188M928 124L704 188" stroke="#F4ECE9" stroke-opacity=".25" stroke-width="1.5"/>
+    <rect x="704" y="202" width="140" height="8" rx="4" fill="#F4ECE9" fill-opacity=".7"/>
+    <rect x="704" y="218" width="96" height="8" rx="4" fill="#F4ECE9" fill-opacity=".4"/>
   </g>
 
-  <rect x="670" y="212" width="120" height="30" rx="15" fill="none" stroke="#F2F5FF" stroke-width="2"/>
+  <rect x="704" y="238" width="104" height="28" rx="14" fill="none" stroke="#F4ECE9" stroke-width="2"/>
 
-  <g class="fade a3">
-    <rect x="670" y="212" width="120" height="30" rx="15" fill="#FFD23F"/>
-    <text class="sans" x="730" y="232" text-anchor="middle" font-size="14" font-weight="700" fill="#16247A">Say hello</text>
+  <g class="fade fill">
+    <rect x="704" y="238" width="104" height="28" rx="14" fill="#FCAC87"/>
+    <text class="sans" x="756" y="257" text-anchor="middle" font-size="14" fill="#2B2230">Say hello</text>
   </g>
 
-  <g class="fade a2" fill="#16247A" stroke="#FFD23F" stroke-width="1.5">
-    <rect x="664" y="206" width="132" height="42" fill="none" stroke-dasharray="4 3"/>
-    <rect x="660.5" y="202.5" width="7" height="7"/>
-    <rect x="792.5" y="202.5" width="7" height="7"/>
-    <rect x="660.5" y="244.5" width="7" height="7"/>
-    <rect x="792.5" y="244.5" width="7" height="7"/>
+  <g class="fade pick" fill="#5C4F62" stroke="#FCAC87" stroke-width="1.5">
+    <rect x="698" y="232" width="116" height="40" fill="none" stroke-dasharray="4 3"/>
+    <rect x="695" y="229" width="6" height="6"/>
+    <rect x="811" y="229" width="6" height="6"/>
+    <rect x="695" y="269" width="6" height="6"/>
+    <rect x="811" y="269" width="6" height="6"/>
   </g>
 
-  <text class="mono fade a4" x="650" y="284" font-size="15" fill="#F2F5FF" fill-opacity=".8">&lt;Button&gt;Say hello&lt;/Button&gt;</text>
-<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplY2M2YWM3ZS05YmM4LTRiODEtYjlhNy1mNmY5ZjI1ODU0OTcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaOFZQIbvoTuPcBQKXB8r7LEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjMjAwYzA0Yi1mNmM2LTQ1MjktYTMyOS0wZDAwMWI2MWIzNDNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo7cuS1J4pRGXWKLD0WbtLSQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggTqGtwaKqTFfAUUefVorhnekwvqhKKzEjTTaCiGK2lJekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHUW3GKlRjF92u82Uy3/+XEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIHNBRega+I8cq5Srd+ezBiuQq5xkYMR4KjCqRO9IG5S2ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQ2gZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmVjYzZhYzdlLTliYzgtNGI4MS1iOWE3LWY2ZjlmMjU4NTQ5Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjA4ZjdmMmI2LTE2ZDktNGYwZS1hZGU4LWI3NjgwNzdiODJjMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBOoa3BoqpMV8BRR59WiuGd6TC+qEorMSNNNoKIYraUl6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg4AJyvfsuKEkByb4LyRpxeREkmkegu+lMZ5VUg+K43OiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggiU2Uqknukrc63Ra4UOnEzuyjfMlIWKt6JRY683aairh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHf0MXtwsGObokvUTehtOcNtezXJim3j0zmPsi0heLuBSsSbT8auAf8hFMmhbJisMpbzG+1s6VBgSOquFNTTAuk=</c2pa:manifest></metadata></svg>
+  <g transform="translate(808 244)">
+    <g class="cursor">
+      <path d="M0 0L0 18L4.6 14L7.4 20.6L10.2 19.4L7.4 13H13.4Z" fill="#FCAC87" stroke="#2B2230" stroke-width="1.2" stroke-linejoin="round"/>
+      <rect x="14" y="14" width="46" height="20" rx="10" fill="#FCAC87"/>
+      <text class="sans" x="37" y="28.5" text-anchor="middle" font-size="12" fill="#2B2230">Joko</text>
+    </g>
+  </g>
+
+  <text class="mono fade code" x="688" y="304" font-size="14" fill="#F4ECE9" fill-opacity=".85">&lt;Button&gt;Say hello&lt;/Button&gt;</text>
+  </g>
+</svg>
